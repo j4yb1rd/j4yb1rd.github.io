@@ -1,3 +1,7 @@
+---
+title: Jason Bard
+---
+
 # Jason Bard
 
 Welcome to my mathematical archive and personal website.
